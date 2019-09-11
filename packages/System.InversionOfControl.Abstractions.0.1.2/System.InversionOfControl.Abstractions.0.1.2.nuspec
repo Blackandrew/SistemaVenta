@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>System.InversionOfControl.Abstractions</id>
+    <version>0.1.2</version>
+    <title>IoC Abstractions</title>
+    <authors>David Neumann &amp; Lukas Rögner</authors>
+    <owners>David Neumann &amp; Lukas Rögner</owners>
+    <licenseUrl>https://raw.githubusercontent.com/lecode-official/ioc-abstractions/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/lecode-official/ioc-abstractions</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/lecode-official/ioc-abstractions/master/Documentation/Images/Logo128x128.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Represents an abstraction layer for multiple IoC containers. Using the abstractions, applications can use an inversion of control container for dependency injection, without directly seeing the underlying API. This makes it very easy to switch between different IoC implementations.</description>
+    <summary>An abstraction layer to decouple dependency injection from their inversion of control container.</summary>
+    <releaseNotes>Added the XML documentation, so that Intellisense provides more information to the user.</releaseNotes>
+    <copyright>Copyright 2016 © David Neumann &amp; Lukas Rögner</copyright>
+    <tags>IoC Abstraction Inversion of Control Dependency Injection</tags>
+  </metadata>
+</package>

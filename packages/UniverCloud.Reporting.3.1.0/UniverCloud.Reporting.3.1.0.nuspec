@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>UniverCloud.Reporting</id>
+    <version>3.1.0</version>
+    <title>UniverCloud Reporting</title>
+    <authors>UniverCloud Development Team</authors>
+    <owners>UniverCloud Development Team</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Core reporting implementation for UniverCloud Products.</description>
+    <summary>Core reporting implementation for UniverCloud Products.</summary>
+    <copyright>UniverCloud SAS</copyright>
+    <language>en-US</language>
+    <tags>UniverCloud Reporting</tags>
+    <dependencies>
+      <group targetFramework=".NETFramework4.5.1">
+        <dependency id="Microsoft.ReportViewer" version="11.0.3366.16" />
+      </group>
+    </dependencies>
+  </metadata>
+</package>

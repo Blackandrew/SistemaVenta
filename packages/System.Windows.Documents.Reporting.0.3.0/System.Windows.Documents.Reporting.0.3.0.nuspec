@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>System.Windows.Documents.Reporting</id>
+    <version>0.3.0</version>
+    <title>XAML Reporting</title>
+    <authors>David Neumann &amp; Lukas Rögner</authors>
+    <owners>David Neumann &amp; Lukas Rögner</owners>
+    <licenseUrl>https://raw.githubusercontent.com/lecode-official/xaml-reporting/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/lecode-official/xaml-reporting</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/lecode-official/xaml-reporting/master/Documentation/Images/Logo128x128.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>The XAML Reporting engine is a tool, which offers reporting tools based on XAML and has the functionality to export to XPS, XLS(X), CSV and PDF.</description>
+    <summary>A light-weight reporting engine, which utilizes XAML to render reports.</summary>
+    <releaseNotes>Added further support for async by adding the possibility to use Progress and CancellationTokens. Also added new ItemsControls to support data binding. Furthermore a PageRangeDocumentPaginator was added so that only certain page ranges can be rendered.</releaseNotes>
+    <copyright>Copyright 2016 © David Neumann &amp; Lukas Rögner</copyright>
+    <tags>XAML Reporting Documents Tables XLS CSV XPS PDF XLSX</tags>
+    <dependencies>
+      <group targetFramework=".NETFramework4.5">
+        <dependency id="AngleSharp" version="0.9.6" />
+        <dependency id="NPOI" version="2.2.1" />
+        <dependency id="SharpZipLib" version="0.86.0" />
+        <dependency id="System.InversionOfControl.Abstractions" version="0.1.2" />
+      </group>
+    </dependencies>
+  </metadata>
+</package>

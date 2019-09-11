@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>UniverCloud.Reporting.Mvc</id>
+    <version>3.2.1</version>
+    <title>UniverCloud Reporting Mvc</title>
+    <authors>UniverCloud Development Team</authors>
+    <owners>UniverCloud Development Team</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>AspNet Mvc reporting implementation for UniverCloud Products.</description>
+    <summary>AspNet Mvc reporting implementation for UniverCloud Products.</summary>
+    <copyright>UniverCloud SAS</copyright>
+    <language>en-US</language>
+    <tags>UniverCloud Reporting Asp.Net Mvc</tags>
+    <dependencies>
+      <group targetFramework=".NETFramework4.5.1">
+        <dependency id="Mvc.RazorTools.FontAwesome" version="4.3.0" />
+        <dependency id="Microsoft.AspNet.Web.Optimization" version="1.1.3" />
+        <dependency id="WebActivatorEx" version="2.0.6" />
+        <dependency id="UniverCloud.Reporting" version="3.1.0" />
+      </group>
+    </dependencies>
+  </metadata>
+</package>
