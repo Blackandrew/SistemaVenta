@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Reporting.dll</id>
+    <version>1.0.24</version>
+    <title>Reporting</title>
+    <authors>mmazarick</authors>
+    <owners>mmazarick</owners>
+    <licenseUrl>https://github.com/Micmaz/Reporting/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/Micmaz/Reporting</projectUrl>
+    <iconUrl>http://www.digitaltadpole.com/favicon.ico</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>.NET Reporting</description>
+    <summary />
+    <releaseNotes>Adding webactivator to add startup script</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>Reporting SQLServer SQL SQLBuilder SQLite BI Buisness Intelligence DataCentric WebForms CRUD DTI DTIReporting</tags>
+    <dependencies>
+      <dependency id="DTIControls.dll" version="1.0.24" />
+      <dependency id="DTIGrid.dll" version="1.0.24" />
+      <dependency id="WebActivatorEx" version="2.2.0" />
+    </dependencies>
+  </metadata>
+</package>

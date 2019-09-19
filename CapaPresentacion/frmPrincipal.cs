@@ -242,7 +242,7 @@ namespace CapaPresentacion
         private void ventasToolStripMenuItem1_Click(object sender, EventArgs e)
         {
             FrmVenta frm = FrmVenta.GetInstancia();
-            frm.MdiParent = this;
+            frm.MdiParent = this;//indicar que este es el formulario padre
             frm.Show();
             frm.Idtrabajador = Convert.ToInt32(this.Idtrabajador);
         }

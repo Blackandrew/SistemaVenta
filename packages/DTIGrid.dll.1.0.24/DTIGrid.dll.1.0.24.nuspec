@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>DTIGrid.dll</id>
+    <version>1.0.24</version>
+    <title>DTIGrid</title>
+    <authors>mmazarick</authors>
+    <owners>mmazarick</owners>
+    <licenseUrl>https://github.com/Micmaz/DTIGrid/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/Micmaz/DTIGrid</projectUrl>
+    <iconUrl>http://www.digitaltadpole.com/favicon.ico</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>.NET Data grid for fast editing. Add the grid, give it a table name and it will add/update/delete. Includes searching and paging. Uses free-jqgrid.</description>
+    <releaseNotes>Adding webactivator to add startup script</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>Data Grid Datagrid jqgrid DataCentric WebForms Jquery JqueryUI DTI CRUD DTIGrid</tags>
+    <dependencies>
+      <dependency id="DTIControls.dll" version="1.0.24" />
+      <dependency id="WebActivatorEx" version="2.2.0" />
+    </dependencies>
+  </metadata>
+</package>

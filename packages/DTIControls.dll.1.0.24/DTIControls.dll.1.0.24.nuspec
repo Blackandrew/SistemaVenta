@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>DTIControls.dll</id>
+    <version>1.0.24</version>
+    <title>DTIControls</title>
+    <authors>mmazarick</authors>
+    <owners>mmazarick</owners>
+    <licenseUrl>https://github.com/Micmaz/DTIControls/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/Micmaz/DTIControls</projectUrl>
+    <iconUrl>http://www.digitaltadpole.com/favicon.ico</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A content management system for WebForms. Bootstrap compatible, built in image manager and drag and drop image uploading. Includes jquery UI tools, data binding and data accessor layer. Can be used with SQL server, mySQL or SQLite. Uses SQLite by default.</description>
+    <releaseNotes>Adding webactivator to add startup script</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>Content Management DataCentric WebForms Jquery JqueryUI DataBinding DTI Bootstrap</tags>
+    <dependencies>
+      <dependency id="System.Data.SQLite.Core" version="1.0.0" />
+      <dependency id="WebActivatorEx" version="2.2.0" />
+    </dependencies>
+  </metadata>
+</package>

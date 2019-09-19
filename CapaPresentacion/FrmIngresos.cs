@@ -75,7 +75,7 @@ namespace CapaPresentacion
             this.txtcorrelativo.Text = string.Empty;
             this.txtigv.Text = string.Empty;
             this.lbltotalpagado.Text = "0,0";
-            this.txtigv.Text = "18";
+            this.txtigv.Text = "15";
             this.creartabla();
 
 
