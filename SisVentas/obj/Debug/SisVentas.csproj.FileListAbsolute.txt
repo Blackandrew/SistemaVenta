@@ -186,3 +186,6 @@ C:\Users\msolis\Documents\prueba\SisVentas\bin\Debug\SisVentas.exe.manifest
 C:\Users\msolis\Documents\prueba\SisVentas\bin\Debug\SisVentas.application
 C:\Users\msolis\Documents\prueba\SisVentas\obj\Debug\SisVentas.exe.manifest
 C:\Users\msolis\Documents\prueba\SisVentas\obj\Debug\SisVentas.application
+C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SistemaVenta\SisVentas\bin\Debug\SisVentas.exe.config
+C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SistemaVenta\SisVentas\obj\Debug\SisVentas.exe
+C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SistemaVenta\SisVentas\obj\Debug\SisVentas.pdb
