@@ -116,6 +116,7 @@ namespace CapaPresentacion
 
         private void frmPrincipal_Load(object sender, EventArgs e)
         {
+           //llamamos a la funcion para habilitar las ventanas segun el permiso de usuario
             Gesttion_usuarios();
         }
 
@@ -177,7 +178,7 @@ namespace CapaPresentacion
             frm.Show();//para que aparezca luego
 
         }
-
+        //verificamos el permiso de los usuarios
         private void Gesttion_usuarios()
         {
             if (acceso.Equals ("Administrador"))
@@ -242,9 +243,16 @@ namespace CapaPresentacion
         private void ventasToolStripMenuItem1_Click(object sender, EventArgs e)
         {
             FrmVenta frm = FrmVenta.GetInstancia();
-            frm.MdiParent = this;//indicar que este es el formulario padre
+            frm.MdiParent = this;
             frm.Show();
             frm.Idtrabajador = Convert.ToInt32(this.Idtrabajador);
+        }
+
+        private void stockDeArtículosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmStock_articulos frm = new frmStock_articulos();
+            frm.MdiParent = this;
+            frm.Show();
         }
     }
 }

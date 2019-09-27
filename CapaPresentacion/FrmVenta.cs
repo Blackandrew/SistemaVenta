@@ -36,13 +36,11 @@ namespace CapaPresentacion
         public void setarticulo(string iddetalle_ingreso,string nombre,decimal precio_compra,
             decimal precio_venta,int stock,DateTime fecha_vencimiento)
         {
-          
-
             this.txtidarticulo.Text = iddetalle_ingreso;
             this.txtarticulo.Text = nombre;
-            this.txtpreciocompra.Text = precio_compra.ToString("0.00");
-            this.txtprecioventa.Text = precio_venta.ToString("0.00");
-            this.txtstock_actual.Text = Convert.ToString(stock); 
+            this.txtpreciocompra.Text =Convert.ToString(precio_compra);
+            this.txtprecioventa.Text= Convert.ToString(precio_venta);
+            this.txtstock_actual.Text = Convert.ToString(stock); ;
             this.dtfechavencimiento.Value = fecha_vencimiento;
             
         }
@@ -128,7 +126,7 @@ namespace CapaPresentacion
             this.txtcorrelativo.Text = string.Empty;
             this.txtigv.Text = string.Empty;
             this.lbltotalpagado.Text = "0,0";
-            this.txtigv.Text = "15";
+            this.txtigv.Text = "18";
             this.creartabla();
 
 
@@ -412,12 +410,13 @@ namespace CapaPresentacion
 
 
                 if (this.txtidarticulo.Text == string.Empty
-                    || this.txtcantidad.Text == string.Empty 
+                    || this.txtcantidad.Text == string.Empty || this.txtdescuento.Text == string.Empty
                      || this.txtprecioventa.Text == string.Empty)
                 {
                     mensajeerror("Falta ingrese algunos datos");
                     errorIcono.SetError(txtidarticulo, "Ingrese un valor");
                     errorIcono.SetError(txtcantidad, "Ingrese  un valor");
+                    errorIcono.SetError(txtdescuento, "Ingrese un valor");
                     errorIcono.SetError(txtprecioventa, "Ingrese un valor ");
 
                 }
@@ -472,7 +471,7 @@ namespace CapaPresentacion
                 DataRow row = this.dtDetalle.Rows[indicarfila];//hace referencia al indic que se quitara del datagriview
                 //disminuir total pagado
                 this.totalPagado = this.totalPagado - Convert.ToDecimal((row["subtotal"].ToString()));
-                this.lbltotalpagado.Text = totalPagado.ToString("$#,##0.00");
+                this.lbltotalpagado.Text = totalPagado.ToString("#0.00#");
                 this.dtDetalle.Rows.Remove(row);
             }
             catch (Exception ex)
@@ -486,18 +485,13 @@ namespace CapaPresentacion
 
             FrmReporteFactura frm = new FrmReporteFactura();
 
-            frm.Idventa = Convert.ToInt32(this.dataListado.CurrentRow.Cells["idventa"].Value);
+           frm.Idventa = Convert.ToInt32(this.dataListado.CurrentRow.Cells["idventa"].Value);
             frm.ShowDialog();
         }
 
-        private void dataListado_CellClick(object sender, DataGridViewCellEventArgs e)
+        private void btnImprimir_Click(object sender, EventArgs e)
         {
-
-        }
-
-        private void FrmVenta_DoubleClick(object sender, EventArgs e)
-        {
-
+            
         }
     }
 }

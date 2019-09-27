@@ -49,10 +49,11 @@ namespace CapaPresentacion
 
                 if (Dato.Rows.Count == 0)
                 {
-                    MessageBox.Show("No tienen acceso al sistema", "Sistema de ventas", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    MessageBox.Show("No tiene acceso al sistema", "Sistema de ventas", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 }
                 else
                 {
+                    //creamo la instancia y le pasamos los datos segun su parametros
                     frmPrincipal frm = new frmPrincipal();
                     frm.Idtrabajador = Dato.Rows[0][0].ToString();
                     frm.apellidos = Dato.Rows[0][1].ToString();

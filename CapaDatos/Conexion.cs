@@ -8,6 +8,14 @@ namespace CapaDatos
 {
     class Conexion
     {
-        public static string Cn = "Data Source = PC_MARLON; Initial Catalog=dbventas; Integrated Security = true "; //cadena de conexion
+        //configuar app.config para genera el instlador
+        //CLICK derecho sobre el archivo principal propiedades  y configurar publicar y aplicaciones
+        //configuracion en red
+        //tener instalado el net framewor el cual tiene,report viwer y sqlserver managerstudio
+       // public static string Cn = "Data Source=(local);Initial Catalog=dbventas;Integrated Security=True"; //cadena de conexion
+        //referencia a la cadena de conexion sin afectar la clase
+
+        //"Data Source = IPPUBLICA:1433; Initial Catalog = TUBD; User ID = USUARIO;  Password = CONTRASEÑA"
+        public static string Cn =Properties.Settings.Default.cn ;
     }
 }

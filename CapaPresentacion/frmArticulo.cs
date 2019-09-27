@@ -187,7 +187,10 @@ namespace CapaPresentacion
 
         private void btnImprimir_Click(object sender, EventArgs e)
         {
+            frmreportearticulo frm = new frmreportearticulo();
 
+
+            frm.ShowDialog();
         }
 
         private void btnEliminar_Click(object sender, EventArgs e)

@@ -81,89 +81,108 @@ C:\Users\msolis\Documents\Visual Studio 2013\Projects\prueba\SisVentas\obj\Debug
 C:\Users\msolis\Documents\Visual Studio 2013\Projects\prueba\SisVentas\obj\Debug\SisVentas.pdb
 C:\Users\msolis\Documents\Visual Studio 2013\Projects\prueba\SisVentas\bin\Debug\RDLCReportRunner.dll
 C:\Users\msolis\Documents\Visual Studio 2013\Projects\prueba\SisVentas\bin\Debug\Microsoft.ReportViewer.WinForms.xml
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\bin\Debug\DTIControls.dll
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\bin\Debug\SqlServerTypes\x64\msvcr120.dll
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\bin\Debug\SqlServerTypes\x86\msvcr120.dll
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\bin\Debug\SisVentas.exe.config
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\bin\Debug\SisVentas.exe
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\bin\Debug\SisVentas.pdb
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\bin\Debug\AngleSharp.dll
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\bin\Debug\Antlr3.Runtime.dll
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\bin\Debug\CapaPresentacion.dll
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\bin\Debug\Chart.js.dll
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\bin\Debug\DTIGrid.dll
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\bin\Debug\FusionChartsFreeware.dll
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\bin\Debug\ICSharpCode.SharpZipLib.dll
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\bin\Debug\Microsoft.ReportViewer.Common.dll
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\bin\Debug\Microsoft.ReportViewer.DataVisualization.DLL
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\bin\Debug\Microsoft.ReportViewer.Design.DLL
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\bin\Debug\Microsoft.ReportViewer.WinForms.dll
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\bin\Debug\Microsoft.SqlServer.Types.dll
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\bin\Debug\Microsoft.Web.Infrastructure.dll
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\bin\Debug\Mvc.RazorTools.dll
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\bin\Debug\Mvc.RazorTools.FontAwesome.dll
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\bin\Debug\Newtonsoft.Json.dll
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\bin\Debug\NPOI.dll
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\bin\Debug\NPOI.OOXML.dll
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\bin\Debug\NPOI.OpenXml4Net.dll
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\bin\Debug\NPOI.OpenXmlFormats.dll
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\bin\Debug\PdfSharp-WPF.dll
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\bin\Debug\PdfSharp.Xps.dll
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\bin\Debug\RDLCReportRunner.dll
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\bin\Debug\Reporting.dll
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\bin\Debug\SQLiteHelper.dll
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\bin\Debug\System.Data.SQLite.dll
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\bin\Debug\System.InversionOfControl.Abstractions.dll
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\bin\Debug\System.Web.Helpers.dll
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\bin\Debug\System.Web.Mvc.dll
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\bin\Debug\System.Web.Optimization.dll
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\bin\Debug\System.Web.Razor.dll
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\bin\Debug\System.Web.WebPages.Deployment.dll
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\bin\Debug\System.Web.WebPages.dll
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\bin\Debug\System.Web.WebPages.Razor.dll
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\bin\Debug\System.Windows.Documents.Reporting.dll
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\bin\Debug\UniverCloud.Reporting.dll
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\bin\Debug\UniverCloud.Reporting.Mvc.dll
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\bin\Debug\WebActivatorEx.dll
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\bin\Debug\WebGrease.dll
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\bin\Debug\CapaNegocio.dll
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\bin\Debug\CapaDatos.dll
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\bin\Debug\Microsoft.Windows.Design.Interaction.dll
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\bin\Debug\CapaPresentacion.pdb
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\bin\Debug\AngleSharp.xml
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\bin\Debug\Antlr3.Runtime.pdb
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\bin\Debug\Microsoft.ReportViewer.WinForms.xml
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\bin\Debug\Mvc.RazorTools.xml
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\bin\Debug\Mvc.RazorTools.FontAwesome.xml
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\bin\Debug\Newtonsoft.Json.xml
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\bin\Debug\NPOI.xml
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\bin\Debug\PdfSharp-WPF.xml
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\bin\Debug\PdfSharp.Xps.xml
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\bin\Debug\System.Data.SQLite.xml
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\bin\Debug\System.InversionOfControl.Abstractions.xml
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\bin\Debug\System.Web.Helpers.xml
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\bin\Debug\System.Web.Mvc.xml
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\bin\Debug\System.Web.Optimization.xml
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\bin\Debug\System.Web.Razor.xml
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\bin\Debug\System.Web.WebPages.xml
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\bin\Debug\System.Web.WebPages.Deployment.xml
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\bin\Debug\System.Web.WebPages.Razor.xml
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\bin\Debug\System.Windows.Documents.Reporting.pdb
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\bin\Debug\System.Windows.Documents.Reporting.xml
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\bin\Debug\CapaNegocio.pdb
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\bin\Debug\CapaDatos.pdb
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\bin\Debug\Microsoft.Windows.Design.Interaction.xml
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\bin\Debug\Microsoft.Windows.Design.Extensibility.xml
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\obj\Debug\SisVentas.csprojResolveAssemblyReference.cache
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\obj\Debug\SisVentas.csproj.SisVentas.exe.config
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\obj\Debug\SisVentas.Form1.resources
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\obj\Debug\SisVentas.Properties.Resources.resources
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\obj\Debug\SisVentas.csproj.GenerateResource.Cache
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\obj\Debug\SisVentas.exe
-C:\Users\msolis\Documents\Visual Studio 2013\Projects\SistemaVenta\SisVentas\obj\Debug\SisVentas.pdb
+C:\Users\msolis\Pictures\prueba\SisVentas\bin\Debug\SisVentas.exe.config
+C:\Users\msolis\Pictures\prueba\SisVentas\obj\Debug\SisVentas.exe
+C:\Users\msolis\Pictures\prueba\SisVentas\obj\Debug\SisVentas.pdb
+C:\Users\msolis\Pictures\prueba\SisVentas\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\msolis\Pictures\prueba\SisVentas\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\msolis\Pictures\prueba\SisVentas\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\msolis\Pictures\prueba\SisVentas\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\msolis\Pictures\prueba\SisVentas\bin\Debug\SisVentas.exe
+C:\Users\msolis\Pictures\prueba\SisVentas\bin\Debug\SisVentas.pdb
+C:\Users\msolis\Pictures\prueba\SisVentas\bin\Debug\AngleSharp.dll
+C:\Users\msolis\Pictures\prueba\SisVentas\bin\Debug\Antlr3.Runtime.dll
+C:\Users\msolis\Pictures\prueba\SisVentas\bin\Debug\CapaPresentacion.dll
+C:\Users\msolis\Pictures\prueba\SisVentas\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\msolis\Pictures\prueba\SisVentas\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\msolis\Pictures\prueba\SisVentas\bin\Debug\Microsoft.ReportViewer.DataVisualization.DLL
+C:\Users\msolis\Pictures\prueba\SisVentas\bin\Debug\Microsoft.ReportViewer.Design.DLL
+C:\Users\msolis\Pictures\prueba\SisVentas\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\msolis\Pictures\prueba\SisVentas\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+C:\Users\msolis\Pictures\prueba\SisVentas\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\msolis\Pictures\prueba\SisVentas\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\msolis\Pictures\prueba\SisVentas\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\msolis\Pictures\prueba\SisVentas\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\msolis\Pictures\prueba\SisVentas\bin\Debug\Mvc.RazorTools.dll
+C:\Users\msolis\Pictures\prueba\SisVentas\bin\Debug\Mvc.RazorTools.FontAwesome.dll
+C:\Users\msolis\Pictures\prueba\SisVentas\bin\Debug\Newtonsoft.Json.dll
+C:\Users\msolis\Pictures\prueba\SisVentas\bin\Debug\NPOI.dll
+C:\Users\msolis\Pictures\prueba\SisVentas\bin\Debug\NPOI.OOXML.dll
+C:\Users\msolis\Pictures\prueba\SisVentas\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\msolis\Pictures\prueba\SisVentas\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\msolis\Pictures\prueba\SisVentas\bin\Debug\PdfSharp-WPF.dll
+C:\Users\msolis\Pictures\prueba\SisVentas\bin\Debug\PdfSharp.Xps.dll
+C:\Users\msolis\Pictures\prueba\SisVentas\bin\Debug\RDLCReportRunner.dll
+C:\Users\msolis\Pictures\prueba\SisVentas\bin\Debug\System.InversionOfControl.Abstractions.dll
+C:\Users\msolis\Pictures\prueba\SisVentas\bin\Debug\System.Web.Helpers.dll
+C:\Users\msolis\Pictures\prueba\SisVentas\bin\Debug\System.Web.Mvc.dll
+C:\Users\msolis\Pictures\prueba\SisVentas\bin\Debug\System.Web.Optimization.dll
+C:\Users\msolis\Pictures\prueba\SisVentas\bin\Debug\System.Web.Razor.dll
+C:\Users\msolis\Pictures\prueba\SisVentas\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\msolis\Pictures\prueba\SisVentas\bin\Debug\System.Web.WebPages.dll
+C:\Users\msolis\Pictures\prueba\SisVentas\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\msolis\Pictures\prueba\SisVentas\bin\Debug\System.Windows.Documents.Reporting.dll
+C:\Users\msolis\Pictures\prueba\SisVentas\bin\Debug\UniverCloud.Reporting.dll
+C:\Users\msolis\Pictures\prueba\SisVentas\bin\Debug\UniverCloud.Reporting.Mvc.dll
+C:\Users\msolis\Pictures\prueba\SisVentas\bin\Debug\WebActivatorEx.dll
+C:\Users\msolis\Pictures\prueba\SisVentas\bin\Debug\WebGrease.dll
+C:\Users\msolis\Pictures\prueba\SisVentas\bin\Debug\CapaNegocio.dll
+C:\Users\msolis\Pictures\prueba\SisVentas\bin\Debug\CapaDatos.dll
+C:\Users\msolis\Pictures\prueba\SisVentas\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+C:\Users\msolis\Pictures\prueba\SisVentas\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+C:\Users\msolis\Pictures\prueba\SisVentas\bin\Debug\CapaPresentacion.pdb
+C:\Users\msolis\Pictures\prueba\SisVentas\bin\Debug\AngleSharp.xml
+C:\Users\msolis\Pictures\prueba\SisVentas\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\msolis\Pictures\prueba\SisVentas\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\msolis\Pictures\prueba\SisVentas\bin\Debug\Mvc.RazorTools.xml
+C:\Users\msolis\Pictures\prueba\SisVentas\bin\Debug\Mvc.RazorTools.FontAwesome.xml
+C:\Users\msolis\Pictures\prueba\SisVentas\bin\Debug\Newtonsoft.Json.xml
+C:\Users\msolis\Pictures\prueba\SisVentas\bin\Debug\NPOI.xml
+C:\Users\msolis\Pictures\prueba\SisVentas\bin\Debug\PdfSharp-WPF.xml
+C:\Users\msolis\Pictures\prueba\SisVentas\bin\Debug\PdfSharp.Xps.xml
+C:\Users\msolis\Pictures\prueba\SisVentas\bin\Debug\System.InversionOfControl.Abstractions.xml
+C:\Users\msolis\Pictures\prueba\SisVentas\bin\Debug\System.Web.Helpers.xml
+C:\Users\msolis\Pictures\prueba\SisVentas\bin\Debug\System.Web.Mvc.xml
+C:\Users\msolis\Pictures\prueba\SisVentas\bin\Debug\System.Web.Optimization.xml
+C:\Users\msolis\Pictures\prueba\SisVentas\bin\Debug\System.Web.Razor.xml
+C:\Users\msolis\Pictures\prueba\SisVentas\bin\Debug\System.Web.WebPages.xml
+C:\Users\msolis\Pictures\prueba\SisVentas\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\msolis\Pictures\prueba\SisVentas\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\msolis\Pictures\prueba\SisVentas\bin\Debug\System.Windows.Documents.Reporting.pdb
+C:\Users\msolis\Pictures\prueba\SisVentas\bin\Debug\System.Windows.Documents.Reporting.xml
+C:\Users\msolis\Pictures\prueba\SisVentas\bin\Debug\CapaNegocio.pdb
+C:\Users\msolis\Pictures\prueba\SisVentas\bin\Debug\CapaDatos.pdb
+C:\Users\msolis\Pictures\prueba\SisVentas\bin\Debug\Microsoft.Windows.Design.Interaction.xml
+C:\Users\msolis\Pictures\prueba\SisVentas\bin\Debug\Microsoft.Windows.Design.Extensibility.xml
+C:\Users\msolis\Pictures\prueba\SisVentas\obj\Debug\SisVentas.csprojResolveAssemblyReference.cache
+C:\Users\msolis\Pictures\prueba\SisVentas\obj\Debug\SisVentas.csproj.SisVentas.exe.config
+C:\Users\msolis\Pictures\prueba\SisVentas\obj\Debug\SisVentas.Form1.resources
+C:\Users\msolis\Pictures\prueba\SisVentas\obj\Debug\SisVentas.Properties.Resources.resources
+C:\Users\msolis\Pictures\prueba\SisVentas\obj\Debug\SisVentas.csproj.GenerateResource.Cache
+C:\Users\msolis\Documents\prueba\SisVentas\obj\Debug\SisVentas.Form1.resources
+C:\Users\msolis\Documents\prueba\SisVentas\obj\Debug\SisVentas.Properties.Resources.resources
+C:\Users\msolis\Documents\prueba\SisVentas\obj\Debug\SisVentas.csproj.GenerateResource.Cache
+C:\Users\msolis\Documents\prueba\SisVentas\bin\Debug\SisVentas.exe.config
+C:\Users\msolis\Documents\prueba\SisVentas\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\msolis\Documents\prueba\SisVentas\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\msolis\Documents\prueba\SisVentas\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\msolis\Documents\prueba\SisVentas\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\msolis\Documents\prueba\SisVentas\bin\Debug\SisVentas.exe
+C:\Users\msolis\Documents\prueba\SisVentas\bin\Debug\SisVentas.pdb
+C:\Users\msolis\Documents\prueba\SisVentas\bin\Debug\CapaPresentacion.dll
+C:\Users\msolis\Documents\prueba\SisVentas\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\msolis\Documents\prueba\SisVentas\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\msolis\Documents\prueba\SisVentas\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\msolis\Documents\prueba\SisVentas\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\msolis\Documents\prueba\SisVentas\bin\Debug\CapaNegocio.dll
+C:\Users\msolis\Documents\prueba\SisVentas\bin\Debug\CapaDatos.dll
+C:\Users\msolis\Documents\prueba\SisVentas\bin\Debug\CapaPresentacion.pdb
+C:\Users\msolis\Documents\prueba\SisVentas\bin\Debug\CapaNegocio.pdb
+C:\Users\msolis\Documents\prueba\SisVentas\bin\Debug\CapaDatos.pdb
+C:\Users\msolis\Documents\prueba\SisVentas\obj\Debug\SisVentas.csprojResolveAssemblyReference.cache
+C:\Users\msolis\Documents\prueba\SisVentas\obj\Debug\SisVentas.exe
+C:\Users\msolis\Documents\prueba\SisVentas\obj\Debug\SisVentas.pdb
+C:\Users\msolis\Documents\prueba\SisVentas\bin\Debug\SisVentas.exe.manifest
+C:\Users\msolis\Documents\prueba\SisVentas\bin\Debug\SisVentas.application
+C:\Users\msolis\Documents\prueba\SisVentas\obj\Debug\SisVentas.exe.manifest
+C:\Users\msolis\Documents\prueba\SisVentas\obj\Debug\SisVentas.application

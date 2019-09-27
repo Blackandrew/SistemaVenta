@@ -347,5 +347,33 @@ namespace CapaDatos
             }
             return DtResultado;
         }
+
+
+       //funcion 
+
+        public DataTable Stock_Articulos()
+        {
+            DataTable DtResultado = new DataTable("articulo");//intancia de tipo datatable pasandole como prarametro la tabla
+            SqlConnection SqlCon = new SqlConnection();
+
+            try
+            {
+                SqlCon.ConnectionString = Conexion.Cn;
+                SqlCommand SqlCmd = new SqlCommand();
+                SqlCmd.Connection = SqlCon;
+                SqlCmd.CommandText = "spstock_articulo";
+                SqlCmd.CommandType = CommandType.StoredProcedure;
+
+                SqlDataAdapter SqlDat = new SqlDataAdapter(SqlCmd);
+                SqlDat.Fill(DtResultado);
+
+
+            }
+            catch (Exception e)
+            {
+                DtResultado = null;
+            }
+            return DtResultado;
+        }
     }
 }
